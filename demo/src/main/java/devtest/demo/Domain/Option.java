@@ -10,7 +10,7 @@ public class Option {
     private Long idOption;
     private String name;
     private Long votes;
-
+//This variable was not nesssary, another try to solve the DB problem by trying in another way
     private Long pollId;
 
     public Long getIdOption() {
